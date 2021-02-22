@@ -1,2 +1,2 @@
-# Xuehai
-xuehai项目
+# XueHai Project
+Collected by Wei Zixiang
